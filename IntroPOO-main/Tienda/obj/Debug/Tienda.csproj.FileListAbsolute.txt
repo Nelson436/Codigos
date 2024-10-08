@@ -1,0 +1,14 @@
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\Tienda\bin\Debug\Tienda.exe
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\Tienda\bin\Debug\Tienda.pdb
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\Tienda\obj\Debug\Tienda.exe
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\Tienda\obj\Debug\Tienda.pdb
+D:\Proyectos\UNIDEP\POO\IntroPOO\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+D:\Proyectos\UNIDEP\POO\IntroPOO\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+D:\Proyectos\UNIDEP\POO\IntroPOO\Tienda\obj\Debug\Tienda.exe
+D:\Proyectos\UNIDEP\POO\IntroPOO\Tienda\obj\Debug\Tienda.pdb
+D:\Proyectos\UNIDEP\POO\IntroPOO\Tienda\bin\Debug\Tienda.exe.config
+D:\Proyectos\UNIDEP\POO\IntroPOO\Tienda\bin\Debug\Tienda.exe
+D:\Proyectos\UNIDEP\POO\IntroPOO\Tienda\bin\Debug\Tienda.pdb
